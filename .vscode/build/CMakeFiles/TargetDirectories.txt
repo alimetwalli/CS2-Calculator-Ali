@@ -1,0 +1,3 @@
+C:/Users/Ali Metwalli/CS2-Calculator-Ali/.vscode/build/CMakeFiles/Calculator.dir
+C:/Users/Ali Metwalli/CS2-Calculator-Ali/.vscode/build/CMakeFiles/edit_cache.dir
+C:/Users/Ali Metwalli/CS2-Calculator-Ali/.vscode/build/CMakeFiles/rebuild_cache.dir

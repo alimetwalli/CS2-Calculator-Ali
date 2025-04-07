@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(Calculator
-    test.cpp
-    calculator.cpp
+    ../test.cpp
+    ../calculator.cpp
 )
