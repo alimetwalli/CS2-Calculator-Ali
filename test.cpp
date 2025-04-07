@@ -13,7 +13,7 @@ int main (){
     cout<<"-5! = "<<calc.factorial(-5)<<endl;
     cout<<"GCD(12,8) = "<<calc.GCD(12,8)<<endl;
     cout<<"LCM(5,3) = "<<calc.LCM(5,3)<<endl;
-    cout<<"Random number between 1 and 10: "<<randomNumber(1,10)<<endl;
+    cout<<"Random number between 1 and 10: "<<calc.randomNumber(1,10)<<endl;
 
 
 
