@@ -3,6 +3,7 @@
 using namespace std;
 
 int main (){
+    Calcylatir calc;
     cout<<"8+7 = "<<add(8,7)<<endl;
     cout<<"19-7 = "<<subtract(19,7)<<endl;
     cout<<"4*6 = "<<multiply(4,6)<<endl;
