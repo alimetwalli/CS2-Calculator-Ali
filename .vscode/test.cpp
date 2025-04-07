@@ -11,6 +11,8 @@ int main (){
     cout<<"5! = "<<factorial(5)<<endl;
     cout<<"-5! = "<<factorial(-5)<<endl;
     cout<<"GCD(12,8) = "<<GCD(12,8)<<endl;
+    cout<<"LCM(5,3) = "<<LCM(5,3)<<endl;
+    cout<<"Random number between 1 and 10: "<<randomNumber(1,10)<<endl;
 
 
 
